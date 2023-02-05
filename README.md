@@ -1,4 +1,4 @@
-#STEPS:
+# STEPS:
 
 1.Remove duplicate frames 
 2.Configuring the Media Pipe
