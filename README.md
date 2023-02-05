@@ -1,11 +1,11 @@
 # STEPS:
 
-1.Remove duplicate frames 
-2.Configuring the Media Pipe
-3.Estimating poses
-4.Extracting joint coordinates
-5.Calculating angles between joints
-6.Inserting timer, stage (bent or relaxed), rep counter, and feedback
+### 1.Remove duplicate frames 
+### 2.Configuring the Media Pipe
+### 3.Estimating poses
+### 4.Extracting joint coordinates
+### 5.Calculating angles between joints
+### 6.Inserting timer, stage (bent or relaxed), rep counter, and feedback
 
 # 1. Remove duplicate frames
 Using the ffmpeg open source software after playing with the parameters present in the mpdecimate module, successfully remove the duplicate frames and reduce the file size
