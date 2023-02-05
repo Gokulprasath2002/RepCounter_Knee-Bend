@@ -8,7 +8,7 @@
 6.Inserting timer, stage (bent or relaxed), rep counter, and feedback
 
 # 1. Remove duplicate frames
-Using the ffmpeg open software after playing with the parameters present in the mpdecimate module, successfully remove the duplicate frames and reduce the file size
+Using the ffmpeg open source software after playing with the parameters present in the mpdecimate module, successfully remove the duplicate frames and reduce the file size
 
 # 2. Configuring the Media Pipe
 Install and import Mediapipe, a Google-developed cross-platform library that offers fantastic, ready-to-use machine learning (ML) solutions for computer vision workloads.
